@@ -2,11 +2,6 @@
 
 Open source no-code database tool and Airtable alternative.
 
-**We're hiring** remote developers! More information at 
-https://baserow.io/jobs/experienced-full-stack-developer.
-
-![Baserow screenshot](docs/assets/screenshot.png "Baserow screenshot")
-
 ## Introduction
 
 Create own database without technical experience. Our user friendly no-code tool gives
