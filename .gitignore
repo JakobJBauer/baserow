@@ -90,4 +90,7 @@ __pycache__
 *.log
 *.egg-info
 
+# virtual environment
+backend/venv/
+
 docker-compose.override.yml
